@@ -1,0 +1,2 @@
+Ali,21,IT
+Alan,21,ICT
